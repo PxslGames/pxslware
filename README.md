@@ -1,15 +1,11 @@
-<p align="center">
-  <h1>pxslware</h1>
-  <p><em>A Gorilla Tag Cheat Client With Over 130 Mods!</em></p>
+<div align="center">
 
-  <p>
-    <img src="https://img.shields.io/github/v/release/PxslGames/pxslware?display_name=release&style=for-the-badge&label=Version&color=238400ff" alt="GitHub Release" />
-    <img src="https://img.shields.io/github/downloads/PxslGames/pxslware/total?style=for-the-badge&color=%238400ff" alt="GitHub Downloads" />
-  </p>
+# pxslware
 
-  <p>
-    <a href="https://discord.gg/9QDjPsE7bQ" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/discord/1358840188469772581?style=for-the-badge&color=%238400ff" alt="Discord" />
-    </a>
-  </p>
-</p>
+*A Gorilla Tag Cheat Client With Over 130 Mods!*
+
+[![Version](https://img.shields.io/github/v/release/PxslGames/pxslware?display_name=release&style=for-the-badge&label=Version&color=238400ff)](https://github.com/PxslGames/pxslware/releases)
+[![Downloads](https://img.shields.io/github/downloads/PxslGames/pxslware/total?style=for-the-badge&color=%238400ff)](https://github.com/PxslGames/pxslware/releases)
+[![Discord](https://img.shields.io/discord/1358840188469772581?style=for-the-badge&color=%238400ff)](https://discord.gg/9QDjPsE7bQ)
+
+</div>
