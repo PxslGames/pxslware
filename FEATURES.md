@@ -100,3 +100,26 @@
 - **Levitation [P]** - Allows you to make your rig float into the air.
 - **Reverse Spin [P]** - Allows you to make your rig spin the other way when holding [A/X].
 - **Strobe Rig [S]** - Makes your rig flash loads when holding [B/Y].
+
+# 🎉 Fun
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Ride Bug** - Allows you to ride the bug.
+- **Find Bug** - Teleports you to the bug.
+- **Grab Bug [G]** - Teleports the bug into your hand when holding [GRIP].
+- **Bug Halo** - Makes the bug move in a circle around your head.
+- **Bug Orbit** - Makes you move in a circle around the bug.
+- **Bug Hat** - Makes the bug turn into a hat.
+- **Become Bug** - Makes you become the bug.
+- **Bug Gun** - Allows you to teleport the bug to wherever your hand desires.
+- **Ride Bat** - Allows you to ride the bat.
+- **Find Bat** - Teleports you to the bat.
+- **Grab Bat [G]** - Teleports the bat into your hand when holding [GRIP].
+- **Bat Halo** - Makes the bat move in a circle around your head.
+- **Bat Orbit** - Makes you move in a circle around the bat.
+- **Bat Hat** - Makes the bat turn into a hat.
+- **Become Bat** - Makes you become the bat.
+- **Bat Gun** - Allows you to teleport the bat to wherever your hand desires.
+- **Leaderboard Mixer [CS]** - Mixes up and duplicates everyone's names and rigs.
+- **Stress Ball** - Gives you a client-sided stress ball.
+- **Leave Party** - Force leaves your current party.]
+- **DVD Monke** - dvd logo monke
