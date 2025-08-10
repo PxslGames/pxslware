@@ -40,3 +40,16 @@
 - **Disable Quit Box** - Disables the Quit Box under the map.
 - **Disable Quit Box [T]** - Disables the Quit Box under the map when holding [TRIGGER].
 - **FPS Boost** - Gives you a big FPS boost when active.
+
+# 🛖 Room
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Disconnect** - Disconnects you from the lobby.
+- **Join Random Code** - Attempts to join a random code.
+- **Join Ghost Code** - Attempts to join a random ghost code.
+- **Disable Network Triggers [CS]** - Disables the network triggers.
+- **Connect To EU** - Connects you to the EU servers.
+- **Connect To US** - Connects you to the US servers.
+- **Connect To EU** - Connects you to the USW servers.
+- **Moderator Detector** - Checks if there is a MODERATOR in your lobby.
+- **Admin Detector** - Checks if there is an ADMIN in your lobby.
+- **Finger Painter Detector** - Checks if there is a FINGER PAINTER in your lobby.
