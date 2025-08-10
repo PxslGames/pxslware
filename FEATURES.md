@@ -1,3 +1,6 @@
+# pxslware - full feature list
+menu's total mod count: **159**
+
 # 🚀 Main
 - **Discord** - Opens an invite to Pxsl's Discord Server in your browser.
 - **Settings** - Opens the Settings Page of the menu.
