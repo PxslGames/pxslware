@@ -13,7 +13,5 @@ The mod menu is not open-sourced, and most likely will never be, but it **is** *
 
 By no means are you allowed to use my code without permission, send me a message in my discord server, and I will probably say yes.
 
-**Video**
-https://youtube.com/shorts/-fQ6eqLq0v0?si=pS9GcoR2LSqm2Rid
-
+<img width="664" height="485" alt="image" src="https://github.com/user-attachments/assets/3831334a-3a46-49d3-bf7d-87e1f4c1ac08" />
 </div>
