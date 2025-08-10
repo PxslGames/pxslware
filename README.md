@@ -16,4 +16,7 @@ By no means are you allowed to use my code without permission, send me a message
 # Image of Menu
 <img width="664" height="485" alt="image" src="https://github.com/user-attachments/assets/3831334a-3a46-49d3-bf7d-87e1f4c1ac08" />
 
+# Menu Features
+You can find all of the menu's features [here](https://github.com/PxslGames/pxslware/blob/main/FEATURES.md)
+
 </div>
