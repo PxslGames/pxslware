@@ -53,3 +53,25 @@
 - **Moderator Detector** - Checks if there is a MODERATOR in your lobby.
 - **Admin Detector** - Checks if there is an ADMIN in your lobby.
 - **Finger Painter Detector** - Checks if there is a FINGER PAINTER in your lobby.
+
+# 🦍 Movement
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Platforms [G]** - Allows you to walk on air.
+- **Platforms [T]** - Allows you to walk on air when holding [TRIGGER].
+- **Speed Boost** - Makes your speed faster.
+- **Speed Boost [G]** - Makes your speed faster when holding [GRIP].
+- **Fly [P]** - Allows you to fly when holding [A/X].
+- **Fly [G]** - Allows you to fly when holding [GRIP].
+- **Fly [T]** - Allows you to fly when holding [TRIGGER].
+- **Velocity Fly [P]** - Allows you to velocity fly when holding [A/X].
+- **Dash [P]** - Allows you to dash forward when pressing [A/X]
+- **No-Clip [T]** - Allows you to phase through anything when holding [TRIGGER].
+- **No Tag Freeze** - Disables Tag Freeze.
+- **Force Tag Freeze** - Forces Tag Freeze.
+- **Checkpoint** - Gives you a checkpoint that you can teleport to.
+- **Teleport Gun** - Allows you to teleport to wherever your hand desires.
+- **Up And Down [T&G]** - Allows you to fly up with [TRIGGER] and down with [GRIP].
+- **Boing [P]** - Makes you bounce a bit when you press [A/X].
+- **Drive** - Allows you to drive forward with [TRIGGER] and backward with [GRIP].
+- **Low Gravity** - literally just makes you have low gravity.
+- **Low Gravity [G]** - literally just makes you have low gravity when holding [GRIP].
