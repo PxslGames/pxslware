@@ -123,3 +123,60 @@
 - **Stress Ball** - Gives you a client-sided stress ball.
 - **Leave Party** - Force leaves your current party.]
 - **DVD Monke** - dvd logo monke
+
+# 👁️ Visual
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Change Time** - Changes the time, for you only.
+- **First-Person-Camera** - Enables a First-Person-Camera.
+- **Fullbright** - Makes everything have increased brightness.
+- **Tracers [CASUAL]** - Gives you lines from your hand showing where all players are.
+- **Tracers [INFECTION]** - Gives you lines from your hand showing where all infection players are.
+
+# 📨 Spam
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Sound Spam** - Opens the Sound Spam Mods Page of the menu.
+- **Visual Spam** - Opens the Visual Spam Mods Page of the menu.
+
+# 👂 Sound Spam
+- **Return to Spam** - Returns to the Main Page for the menu.
+- **Spam Random Sound [G]** - Spams [RANDOM] sounds when holding [GRIP].
+- **Spam Wood Sound [G]** - Spams [WOOD] sound when holding [GRIP].
+- **Spam Metal Sound [G]** - Spams [METAL] sound when holding [GRIP].
+- **Spam Keyboard Sound [G]** - Spams [KEYBOARD] sound when holding [GRIP].
+- **Spam Big Crystal Sound [G]** - Spams [CRYSTAL] sound when holding [GRIP].
+- **Spam AK-47 Sound [G]** - Spams [AK-47] sound when holding [GRIP].
+- **Spam Cymbal Sound [G]** - Spams [CYMBAL] sound when holding [GRIP].
+- **Spam Umbrella Open Sound [G]** - Spams [UMBRELLA OPEN] sound when holding [GRIP].
+- **Spam Squeak Squeeze Sound [G]** - Spams [SQUEAK SQUEEZE] sound when holding [GRIP].
+- **Spam Squeak Release Sound [G]** - Spams [SQUEAK RELEASE] sound when holding [GRIP].
+- **Spam Bite 1 Sound [G]** - Spams [BITE 1] sound when holding [GRIP].
+- **Spam Bite 2 Sound [G]** - Spams [BITE 2] sound when holding [GRIP].
+- **Spam Bite 3 Sound [G]** - Spams [BITE 3] sound when holding [GRIP].
+- **Spam Bone Sound [G]** - Spams [BONE] sound when holding [GRIP].
+- **Spam Wolf Sound [G]** - Spams [WOLF] sound when holding [GRIP].
+- **Spam Cat Sound [G]** - Spams [CAT] sound when holding [GRIP].
+- **Spam Turkey Sound [G]** - Spams [TURKEY] sound when holding [GRIP].
+- **Spam Frog Sound [G]** - Spams [FROG] sound when holding [GRIP].
+- **Spam Bee Sound [G]** - Spams [BEE] sound when holding [GRIP].
+
+# 👁️ Visual Spam
+- **Return To Spam** - Returns to the Spam Page of the menu.
+- **Splash Hands [G]** - Makes water fly out of your hands when holding [GRIP].
+- **Splash Hands Halo [G]** - Splashes water around your hands when holding [GRIP].
+- **Splash Pointer [G]** - Splashes water in front of your hands when holding [GRIP].
+- **Spit [G]** - Makes water fly out of your mouth when holding [GRIP].
+- **Water Halo [G]** - Splashes water around your head when holding [GRIP].
+- **Water Gun** - Splashes water wherever your hand desires.
+- **Splash Nearest Player** - Splashes water on the nearest player to you.
+
+# 💻 Overpowered
+- **Return to Main** - Returns to the main page of the menu.
+- **Anti-Ban** - Significantly lowers your chances of getting banned.
+- **Mute All** - Mutes everyone in the current lobby.
+- **Auto Mute All** - Mutes everyone in the current lobby every second.
+- **Auto Unmute All** - Unmutes everyone in the current lobby every second.
+- **Master Check** - Checks if you are Master Client.
+
+# 🧪 Experimental
+- **Return to Main** - Returns to the main page of the menu.
+- **DISCLAIMER!** - !!! DISCLAIMER - EVERYTHING IN THIS CATEGORY MAY BE DETECTED, AND/OR NOT WORKING! USE AT YOUR OWN RISK! !!!.
