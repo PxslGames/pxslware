@@ -75,3 +75,28 @@
 - **Drive** - Allows you to drive forward with [TRIGGER] and backward with [GRIP].
 - **Low Gravity** - literally just makes you have low gravity.
 - **Low Gravity [G]** - literally just makes you have low gravity when holding [GRIP].
+
+# 💀 Rig
+- **Return to Main** - Returns to the Main Page for the menu.
+- **Head Spin X** - Makes your head spin on the X Axis.
+- **Head Spin Y** - Makes your head spin on the Y Axis.
+- **Head Spin Z** - Makes your head spin on the Z Axis.
+- **Fast Head Spin X** - Makes your head spin on the X Axis at a fast speed.
+- **Fast Head Spin Y** - Makes your head spin on the Y Axis at a fast speed.
+- **Fast Head Spin Z** - Makes your head spin on the Z Axis at a fast speed.
+- **Upside-Down Head** - Makes your head go Upside-Down.
+- **Broken Neck** - Makes your neck snap to the side like it's broken.
+- **Backwards Head** - Makes your head go Backwards.
+- **Seizure [S]** - Makes you look like you are having a seizure.
+- **Grab Rig [G]** - Allows you to grab your rig.
+- **Invisible [P]** - Allows you to go Invisible.
+- **Ghost [S]** - Allows you to make your rig freeze when holding [B/Y].
+- **Update Rig [S]** - Allows you to make your rig unfreeze when holding [B/Y].
+- **Rig Gun** - Allows you to teleport your rig to wherever your hand desires.
+- **Rig Fly Gun** - Allows you to make your rig fly to wherever your hand desires.
+- **Helicopter [P]** - Allows you to make your rig fly up and spin when holding [A/X].
+- **Reverse Helicopter [P]** - Allows you to make your rig fly down and spin when holding [A/X].
+- **Spin [P]** - Allows you to make your rig spin when holding [A/X].
+- **Levitation [P]** - Allows you to make your rig float into the air.
+- **Reverse Spin [P]** - Allows you to make your rig spin the other way when holding [A/X].
+- **Strobe Rig [S]** - Makes your rig flash loads when holding [B/Y].
