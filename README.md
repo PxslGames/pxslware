@@ -35,7 +35,8 @@ To request permission, contact me via Discord.
 ## Key Features
 
 - Over 160 mods and cheats  
-- Intuitive in-game menu  
+- Modern, sleek, and user-friendly menu design  
+- Intuitive in-game navigation  
 - Regular updates and improvements  
 - Active Discord community for support
 
@@ -45,8 +46,8 @@ To request permission, contact me via Discord.
 
 ## Getting Started
 
-1. Download the latest release from [Releases](https://github.com/PxslGames/pxslware/releases)  
-2. Follow the installation instructions in [INSTALL.md](link if you have it) or the Wiki  
-3. Join our [Discord server](https://discord.gg/9QDjPsE7bQ) for help and updates  
+1. Download the latest release from [Releases](https://github.com/PxslGames/pxslware/releases/latest/download/pxslware.dll).
+2. Put `pxslware.dll` into your plugins folder.
+3. Join our [Discord server](https://discord.gg/9QDjPsE7bQ) for help and updates.
 
 </div>
