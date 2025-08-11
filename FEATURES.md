@@ -1,5 +1,5 @@
 # pxslware - full feature list
-menu's total mod count: **159**
+menu's total mod count: **162**
 
 # 🚀 Main
 - **Discord** - Opens an invite to Pxsl's Discord Server in your browser.
@@ -134,6 +134,10 @@ menu's total mod count: **159**
 - **Fullbright** - Makes everything have increased brightness.
 - **Tracers [CASUAL]** - Gives you lines from your hand showing where all players are.
 - **Tracers [INFECTION]** - Gives you lines from your hand showing where all infection players are.
+- **2D Gorillas** - Flattens all gorillas to appear 2D.
+- **Ugly Gorillas** - Turns all gorillas into short, goofy-looking goobs.
+- **Tall Gorillas** - Makes all gorillas tall and lanky.
+- **Hologram Gorillas** - Makes all gorillas turn into a hologram.
 
 # 📨 Spam
 - **Return to Main** - Returns to the Main Page for the menu.
