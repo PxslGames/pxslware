@@ -1,5 +1,5 @@
 # pxslware - full feature list
-menu's total mod count: **162**
+menu's total mod count: **166**
 
 # 🚀 Main
 - **Discord** - Opens an invite to Pxsl's Discord Server in your browser.
@@ -78,6 +78,9 @@ menu's total mod count: **162**
 - **Drive** - Allows you to drive forward with [TRIGGER] and backward with [GRIP].
 - **Low Gravity** - literally just makes you have low gravity.
 - **Low Gravity [G]** - literally just makes you have low gravity when holding [GRIP].
+- **Kill Velocity [P]** - Completely kills your velocity.
+- **Teleport To Random** - Teleports you to a random player.
+- **Auto Random Teleport [T]** - Teleports you to a random player every frame when holding [TRIGGER].
 
 # 💀 Rig
 - **Return to Main** - Returns to the Main Page for the menu.
