@@ -26,6 +26,7 @@ menu's total mod count: **166**
 - **Toggle Button Vibration** - Toggles controller vibration when buttons are pressed.
 - **Mod Count** - Tells you how many mods are on the menu.
 - **Open pxslware Folder** - Opens the pxslware folder.
+- **Open Presets Folder** - Opens the presets folder.
 - **Change Menu Theme** - Changes the menu theme.
 
 # ⚠️ Important
@@ -49,6 +50,7 @@ menu's total mod count: **166**
 - **Disconnect** - Disconnects you from the lobby.
 - **Join Random Code** - Attempts to join a random code.
 - **Join Ghost Code** - Attempts to join a random ghost code.
+- **Join Menu Code** - Attempts to join the menu code.
 - **Disable Network Triggers [CS]** - Disables the network triggers.
 - **Connect To EU** - Connects you to the EU servers.
 - **Connect To US** - Connects you to the US servers.
