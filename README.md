@@ -14,6 +14,8 @@
 
 pxslware is a powerful cheat client designed for the VR game **Gorilla Tag**, offering more than 160 mods to customize and enhance your gameplay.
 
+https://pxsl.dev/products/pxslware
+
 ---
 
 ## Disclaimer
