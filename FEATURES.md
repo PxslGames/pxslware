@@ -1,5 +1,5 @@
 # pxslware - full feature list
-menu's total mod count: **169**
+menu's total mod count: **174**
 
 # 🚀 Main
 - **Discord** - Opens an invite to Pxsl's Discord Server in your browser.
@@ -69,7 +69,9 @@ menu's total mod count: **169**
 - **Fly [G]** - Allows you to fly when holding [GRIP].
 - **Fly [T]** - Allows you to fly when holding [TRIGGER].
 - **Velocity Fly [P]** - Allows you to velocity fly when holding [A/X].
-- **Dash [P]** - Allows you to dash forward when pressing [A/X]
+- **Dash [P]** - Allows you to dash forward when pressing [A/X].
+- **Fling Self [P]** - Flings yourself in a random direction.
+- **Fling Self On Touch** - Flings yourself in a random direction when someone touches you.
 - **No-Clip [T]** - Allows you to phase through anything when holding [TRIGGER].
 - **No Tag Freeze** - Disables Tag Freeze.
 - **Force Tag Freeze** - Forces Tag Freeze.
@@ -143,6 +145,7 @@ menu's total mod count: **169**
 - **Ugly Gorillas** - Turns all gorillas into short, goofy-looking goobs.
 - **Tall Gorillas** - Makes all gorillas tall and lanky.
 - **Hologram Gorillas** - Makes all gorillas turn into a hologram.
+- **Chonky Gorillas** - Makes all the gorillas obese.
 
 # 📨 Spam
 - **Return to Main** - Returns to the Main Page for the menu.
@@ -177,6 +180,7 @@ menu's total mod count: **169**
 - **Splash Hands Halo [G]** - Splashes water around your hands when holding [GRIP].
 - **Splash Pointer [G]** - Splashes water in front of your hands when holding [GRIP].
 - **Spit [G]** - Makes water fly out of your mouth when holding [GRIP].
+- **Urine [G]** - Makes you pee when holding [GRIP].
 - **Water Halo [G]** - Splashes water around your head when holding [GRIP].
 - **Water Gun** - Splashes water wherever your hand desires.
 - **Splash Nearest Player** - Splashes water on the nearest player to you.
@@ -188,6 +192,7 @@ menu's total mod count: **169**
 - **Auto Mute All** - Mutes everyone in the current lobby every second.
 - **Auto Unmute All** - Unmutes everyone in the current lobby every second.
 - **Master Check** - Checks if you are Master Client.
+- **Tag All [T]** - Automatically tags everyone in the lobby.
 
 # 🧪 Experimental
 - **Return to Main** - Returns to the main page of the menu.
