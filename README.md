@@ -2,7 +2,7 @@
 
 # pxslware
 
-*A Cheat Client with Over 160 Mods for Gorilla Tag VR*
+*A Cheat Client with Over 170 Mods for Gorilla Tag VR*
 
 [![Version](https://img.shields.io/github/v/release/PxslGames/pxslware?display_name=release&style=for-the-badge&label=Version&color=%238400ff)](https://github.com/PxslGames/pxslware/releases)
 ![Downloads](https://img.shields.io/github/downloads/PxslGames/pxslware/total?style=for-the-badge&color=%238400ff&cacheBust=1)
