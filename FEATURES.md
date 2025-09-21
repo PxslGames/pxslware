@@ -133,6 +133,7 @@ menu's total mod count: **174**
 - **Stress Ball** - Gives you a client-sided stress ball.
 - **Leave Party** - Force leaves your current party.]
 - **DVD Monke** - dvd logo monke
+- **Draw** - Draw in the air when holding [GRIP] and use [A/X] to delete drawing.
 
 # 👁️ Visual
 - **Return to Main** - Returns to the Main Page for the menu.
