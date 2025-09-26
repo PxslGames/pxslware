@@ -2,7 +2,7 @@
 
 # pxslware
 
-*A Cheat Client with Over 170 Mods for Gorilla Tag*
+*A Cheat Client with Over 180 Mods for Gorilla Tag*
 
 [![Version](https://img.shields.io/github/v/release/PxslGames/pxslware?display_name=release&style=for-the-badge&label=Version&color=%238400ff)](https://github.com/PxslGames/pxslware/releases)
 ![Downloads](https://img.shields.io/github/downloads/PxslGames/pxslware/total?style=for-the-badge&color=%238400ff&cacheBust=1)
@@ -12,7 +12,7 @@
 
 ## About pxslware
 
-pxslware is a powerful cheat client designed for the VR game **Gorilla Tag**, offering more than 160 mods to customize and enhance your gameplay.
+pxslware is a powerful cheat client designed for the VR game **Gorilla Tag**, offering more than 180 mods to customize and enhance your gameplay.
 
 https://pxsl.dev/products/pxslware
 
@@ -36,13 +36,11 @@ To request permission, contact me via Discord.
 
 ## Key Features
 
-- Over 160 mods and cheats  
+- Over 180 mods and cheats  
 - Modern, sleek, and user-friendly menu design  
 - Intuitive in-game navigation  
 - Regular updates and improvements  
 - Active Discord community for support
-
-(See the full feature list [here](https://github.com/PxslGames/pxslware/blob/main/FEATURES.md))
 
 ---
 
